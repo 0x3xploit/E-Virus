@@ -4,7 +4,7 @@ import numpy as np
 import os
 import pyautogui
 user1 = input("[*] Enter Your Email :: ")
-app_password1 = input("[*] Enter Your App-Password {Not Your Email-Password }:: ")#Enter your Email APP-PASSWORD Id Hear
+app_password1 = input("[*] Enter Your App-Password {Not Your Email-Password }:: ")#Enter your Email APP-PASSWORD Hear
 to=[user1]
 subject1 = os.getcwd()
 content1 = [' ']
